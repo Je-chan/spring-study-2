@@ -4,7 +4,7 @@ import hello.hellospring.domain.Member;
 
 import java.util.*;
 
-public class MemoryMemberRepository implements MemberInterface {
+public class MemoryMemberRepository implements MemberRepository {
 
     // 실무에서는 동시성 문제를 고려해야 하나 여기서는 간단하게만
     private static Map<Long, Member> store = new HashMap<>();

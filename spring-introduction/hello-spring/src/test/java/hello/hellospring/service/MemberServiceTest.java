@@ -4,6 +4,7 @@ import hello.hellospring.domain.Member;
 import hello.hellospring.repository.MemoryMemberRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -13,6 +14,15 @@ class MemberServiceTest {
 
     MemberService memberService = new MemberService();
     MemoryMemberRepository memberRepository = new MemoryMemberRepository();
+
+    @BeforeEach
+    public void beforeEach() {
+        // 각 테스트를 실행하기 전에 beforeEach로 메모리 레포를 마늘고, 그 안에 넣는다
+        // 이렇게 실제 테스트하고자 하는 코드와 동일한 인스턴스를 사용하게 된다.ㅎ
+        memberRepository = new MemoryMemberRepository();
+        memberService = new MemberService(memberRepository);
+    }
+
     @AfterEach
     public void afterEach() {
         memberRepository.clearStore();
