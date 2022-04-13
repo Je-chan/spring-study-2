@@ -13,7 +13,14 @@ public class MemberController {
     private final MemberService memberService;
 
     // Autowired 가 생성자에 있으면 스프링이 MemberService 와 연결시켜준다.
+    // MemberService 에 가면 순수 자바 클래스라 스프링이 알 방법이 없다. Anotation 이 없기 때문.
+    // 이럴 때는 MemberService 에 가서 @Service 를 넣어주면 된다.
+    // 그리고 MemoryMemberRepository 에 가서 @Repository 를 붙인다.
+    // Controller(외부 요청 받음), Service(비즈니스 로직), Repository(데이터 저장) 가 굉장히 정형화된 패
     @Autowired
+    // Autowired 를 사용해서 MemberController 가 생성이 될 때, 스프링 빈에 등록된 Members 객체를 가져다 넣어준다
+    // 이게 Dependency Injection.
+    // @Autowired 로 MemberService 와 연관을 짓는다.
     public MemberController(MemberService memberService) {
         this.memberService = memberService;
     }
