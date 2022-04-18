@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8491c79-0477-44a6-89c3-4f3e22c5c01d" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/7.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.idea/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/build/classes/java/main/com/example/hello/HelloApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/build/classes/java/main/com/example/hello/controller/ApiController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-fast-campus/demo/hello/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/7.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/workspace-id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.gradle/workspace-id.txt.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/bootJarMainClassName" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/HelloSpringApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/controller/HelloController$Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/controller/MemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/controller/MemberForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/domain/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/repository/MemberRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/repository/MemoryMemberRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/main/hello/hellospring/service/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/test/hello/hellospring/HelloSpringApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/classes/java/test/hello/hellospring/repository/MemoryMemberRepositoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/libs/hello-spring-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/libs/hello-spring-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/reports/tests/test/classes/hello.hellospring.HelloSpringApplicationTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/reports/tests/test/classes/hello.hellospring.repository.MemoryMemberRepositoryTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/reports/tests/test/packages/hello.hellospring.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/reports/tests/test/packages/hello.hellospring.repository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/resources/main/static/hello-static.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/resources/main/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/resources/main/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/resources/main/templates/helloTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/resources/main/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/resources/main/templates/members/createMemberForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/resources/main/templates/members/memberList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/test-results/test/TEST-hello.hellospring.HelloSpringApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/test-results/test/TEST-hello.hellospring.repository.MemoryMemberRepositoryTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/HelloSpringApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/controller/HelloController$Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/controller/MemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/controller/MemberForm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/domain/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/repository/MemberRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/repository/MemoryMemberRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/classes/hello/hellospring/service/MemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/resources/static/hello-static.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/resources/templates/helloTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/resources/templates/members/createMemberForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/production/resources/templates/members/memberList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/test/classes/hello/hellospring/HelloSpringApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/test/classes/hello/hellospring/repository/MemoryMemberRepositoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring/out/test/classes/hello/hellospring/service/MemberServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-introduction/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-introduction/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-introduction/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-introduction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-introduction/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-introduction/.idea/spring-introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-introduction/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27yRrzEFebuw2pW7cyZi2eGRUZh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="/Users/pneosmac/Desktop/inflearn/spring-study/spring-inflearn/spring-introduction/hello-spring [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-inflearn/spring-introduction/hello-spring" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--refresh-dependencies" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./Users/pneosmac/Desktop/inflearn/spring-study/spring-inflearn/spring-introduction/hello-spring [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8491c79-0477-44a6-89c3-4f3e22c5c01d" name="Changes" comment="" />
+      <created>1650290547315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650290547315</updated>
+      <workItem from="1650290550930" duration="77000" />
+      <workItem from="1650290645145" duration="91000" />
+      <workItem from="1650290747753" duration="94000" />
+      <workItem from="1650290858110" duration="905000" />
+      <workItem from="1650291911075" duration="78000" />
+      <workItem from="1650292006069" duration="18000" />
+      <workItem from="1650292111674" duration="40000" />
+      <workItem from="1650292334838" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
